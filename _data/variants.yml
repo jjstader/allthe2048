@@ -233,3 +233,8 @@
 - url: http://blanboom.org/2048/
   name: Mg
   author: Blanboom
+  
+  - url: http://jamesdonnelly.github.io/Isotopic256/
+  name: Isotopic 2048
+  author: James Donnelly
+  
